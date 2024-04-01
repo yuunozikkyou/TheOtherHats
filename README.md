@@ -1,12 +1,10 @@
 ![TheOtherHats Banner](./Images/TheOtherHats_logo.png)
 
 # TheOtherHats
-We're awaiting your creative hat designs and we'll integrate all the good ones in our mod  :heart_eyes:
-Here are a few instructions, on how to create a custom hat:
-
+私たちはあなたのクリエイティブなカスタムハットデザインを待っています：
 ### Hat Creation:
- A hat consists of up to three textures. The aspect ratio of the textures has to be 4:5, we recommend 300px x 375px.
-
+ カスタムハットは最大3つのテクスチャで構成されます。テクスチャの縦横比は4:5で、300px x 375pxを推奨します。
+ディスコードで送ってくれた画像は追加します!!ディスコードは[こちら](https://discord.gg/yBuPQGahha)から
 ### Main texture (required):
 This is the main texture of your hat. It will usually be rendered in front of the player, if you set the behind parameter it will be rendered behind the player.
  The name of the texture needs to follow the pattern hatname.png, but you can also set some additional parameters in the file name by adding _parametername to the file name (before the .png).
