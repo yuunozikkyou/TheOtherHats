@@ -3,13 +3,15 @@
         {
             "author": "りょい",
             "bounce": true,
-            "climbresource": "megaphone_climb.png",
+            "climbresource": "sheriff_climb.png",
             "condition": "None",
             "name": "シェリフカード!!",
             "package": "Community Hats",
             "reshasha": "9463376d1aa538121ffb450ebe614691433347120e3db1e3e4d1d5b7a86d86b92ed02d122ea7112979e646c45717818014fa913c5640b284e7f22208cd854c9f",
             "reshashc": "9d51c048a0c6b18cc6e1faa45469b1a0267d1d40d8fdc42f34e4a3b34071314bef6c1f4c12e7b5c4f6f3e224e2880cd3fc28d5a3793434f842c0195d030b39b9",
-            "resource": "megaphone_bounce.png"
+            "reshashf": "752e8ed01190c224cb1ffb159aabd1423e65c7463eb946033510a25b67007dfe3e2eaebc9948ba25b9b841d22fd50f5b4bb114cdd45ab5b5536c5dc3126520bc",
+            "resource": "sheriff.png"
+            "flipresource": "sheriff_flip.png",
         },
 
         {
