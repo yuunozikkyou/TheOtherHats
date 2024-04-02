@@ -19,10 +19,32 @@
             "climbresource": "kou_climb.png",
             "condition": "None",
             "name": "ブリザード",
-            "package": "yuumura",
+            "package": "ゆう村",
             "reshasha": "ac7dc25b0d54d69eb0a32d2e507fa58a",
             "reshashc": "558e05486a2bb01058feead768820631",
             "resource": "kou_bounce.png"
+        },
+        {
+            "author": "リン",
+            "bounce": true,
+            "climbresource": "rin_climb.png",
+            "condition": "None",
+            "name": "rin",
+            "package": "ゆう村",
+            "reshasha": "80a0c84242bb19044344beb4b9924bc2",
+            "reshashc": "e33b1cf4603cfe05df7e3e6a5e9b5087",
+            "resource": "rin_bounce.png"
+        },
+        {
+            "author": "ハルッチ",
+            "bounce": true,
+            "climbresource": "harucchiclimb.png",
+            "condition": "None",
+            "name": "ハルッチ",
+            "package": "ゆう村",
+            "reshasha": "dd94ad11b2dd355598ab695a59fa5de9",
+            "reshashc": "0a0f7d92c1f14760edf503ae0e0f5cc0",
+            "resource": "harucchi_bounce.png"
         },
         {
             "author": "Palmer",
