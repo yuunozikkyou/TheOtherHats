@@ -1,0 +1,4 @@
+カスタムハットアルゴリズムは
+"MD5"です
+コマンドの例
+certutil -hashfile sheriff_bounce.png MD5
