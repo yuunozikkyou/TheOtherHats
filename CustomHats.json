@@ -48,7 +48,7 @@
         },
         {
             "author": "ゆう",
-            "backresource": "dotbunsin_back.png"
+            "backresource": "dotbunsin_back.png",
             "bounce": true,
             "adaptive": true,
             "condition": "None",
