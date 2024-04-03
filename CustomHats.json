@@ -1,17 +1,6 @@
 {
     "hats": [
         {
-            "author": "れおぴい",
-            "bounce": true,
-            "climbresource": "edocrew_climb.png",
-            "condition": "None",
-            "name": "江戸クルー",
-            "package": "TheOtherRolesJPdeveloper作",
-            "reshasha": "0436d80588922d5a6324e936f063f65d",
-            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
-            "resource": "edocrew_bounce.png"
-        },
-        {
             "author": "りょい",
             "bounce": true,
             "climbresource": "sheriff_climb.png",
@@ -56,6 +45,17 @@
             "reshasha": "dd94ad11b2dd355598ab695a59fa5de9",
             "reshashc": "0a0f7d92c1f14760edf503ae0e0f5cc0",
             "resource": "harucchi_bounce.png"
+        },
+        {
+            "author": "れおぴい",
+            "bounce": true,
+            "climbresource": "edocrew_climb.png",
+            "condition": "None",
+            "name": "江戸クルー",
+            "package": "TheOtherRolesJPdeveloper作",
+            "reshasha": "0436d80588922d5a6324e936f063f65d",
+            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
+            "resource": "edocrew_bounce.png"
         },
         {
             "author": "Palmer",
