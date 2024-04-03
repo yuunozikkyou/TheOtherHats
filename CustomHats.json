@@ -1,14 +1,14 @@
 {
     "hats": [
         {
-            "author": "江戸クルー",
+            "author": "れおぴい",
             "bounce": true,
             "climbresource": "edocrew_climb.png",
             "condition": "None",
-            "name": "ハルッチ",
+            "name": "江戸クルー",
             "package": "TheOtherRolesJPdeveloper作",
-            "reshasha": "5566f6eaf29e58b92df4cf7adddf0763",
-            "reshashc": "a415277c18473b94740288d9d8f8e9bd",
+            "reshasha": "0436d80588922d5a6324e936f063f65d",
+            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
             "resource": "edocrew_bounce.png"
         },
         {
@@ -58,14 +58,14 @@
             "resource": "harucchi_bounce.png"
         },
         {
-            "author": "江戸クルー",
+            "author": "れおぴい",
             "bounce": true,
             "climbresource": "edocrew_climb.png",
             "condition": "None",
-            "name": "ハルッチ",
+            "name": "江戸クルー",
             "package": "れおぴいさん作",
-            "reshasha": "5566f6eaf29e58b92df4cf7adddf0763",
-            "reshashc": "a415277c18473b94740288d9d8f8e9bd",
+            "reshasha": "0436d80588922d5a6324e936f063f65d",
+            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
             "resource": "edocrew_bounce.png"
         },
         {
