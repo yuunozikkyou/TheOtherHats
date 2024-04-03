@@ -47,16 +47,25 @@
             "resource": "harucchi_bounce.png"
         },
         {
-            "author": "ゆう",
-            "backresource": "dotbunsin_back.png",
+            "author": "ハルッチ",
+            "bounce": true,
+            "climbresource": "harucchi_climb.png",
+            "condition": "None",
+            "name": "ハルッチ",
+            "package": "ゆう村",
+            "reshasha": "dd94ad11b2dd355598ab695a59fa5de9",
+            "reshashc": "0a0f7d92c1f14760edf503ae0e0f5cc0",
+            "resource": "harucchi_bounce.png"
+        },
+        {
+            "author": "不明",
             "adaptive": true,
             "bounce": true,
             "condition": "None",
-            "name": "ドット分身の術!!",
+            "name": "死体屋",
             "package": "ゆう村",
-            "reshasha": "fda370b194f81cd20a833008635c1cb5",
-            "reshashb": "0ff750d9c93632d53d5f61d6dd469e56",
-            "resource": "dotbunsin_bounce.png"
+            "reshasha": "01ac95adf9523744a378acdd32370d36",
+            "resource": "shitaiya_bounce_adaptive.png"
         },
         {
             "author": "れおぴい",
