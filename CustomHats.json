@@ -68,6 +68,17 @@
             "resource": "shitaiya_bounce_adaptive.png"
         },
         {
+            "author": "ゆう",
+            "bounce": true,
+            "climbresource": "sans_climb.png",
+            "condition": "None",
+            "name": "隠していた能力を発動!!",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "68d021643b26de7b85bd715f50b7247c",
+            "reshashc": "69fee90b273d827cb047eb5da15cdd68",
+            "resource": "sans_bounce.png"
+        },
+        {
             "author": "れおぴい",
             "bounce": true,
             "climbresource": "edocrew_climb.png",
