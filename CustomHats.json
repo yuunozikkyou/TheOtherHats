@@ -63,28 +63,6 @@
             "climbresource": "edocrew_climb.png",
             "condition": "None",
             "name": "江戸クルー",
-            "package": "れおぴいさん作",
-            "reshasha": "0436d80588922d5a6324e936f063f65d",
-            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
-            "resource": "edocrew_bounce.png"
-        },
-        {
-            "author": "ゆう",
-            "bounce": true,
-            "condition": "None",
-            "name": "ドット分身の術!!",
-            "package": "TheOtherRolesJPdeveloper!!",
-            "reshasha": "fda370b194f81cd20a833008635c1cb5",
-            "reshashb": "0ff750d9c93632d53d5f61d6dd469e56",
-            "resource": "dotbuncin_bounce.png",
-            "backresource": "dotbuncin_bounce.png"
-        },
-        {
-            "author": "れおぴい",
-            "bounce": true,
-            "climbresource": "edocrew_climb.png",
-            "condition": "None",
-            "name": "江戸クルー",
             "package": "TheOtherRolesJPdeveloper!!",
             "reshasha": "0436d80588922d5a6324e936f063f65d",
             "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
