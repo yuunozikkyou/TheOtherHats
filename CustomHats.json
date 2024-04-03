@@ -49,8 +49,8 @@
         {
             "author": "ゆう",
             "backresource": "dotbunsin_back.png",
-            "bounce": true,
             "adaptive": true,
+            "bounce": true,
             "condition": "None",
             "name": "ドット分身の術!!",
             "package": "ゆう村",
