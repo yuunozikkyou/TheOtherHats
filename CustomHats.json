@@ -48,6 +48,7 @@
         },
         {
             "author": "ゆう",
+            "backresource": "dotbunsin_back.png"
             "bounce": true,
             "condition": "None",
             "name": "ドット分身の術!!",
@@ -55,7 +56,6 @@
             "reshasha": "fda370b194f81cd20a833008635c1cb5",
             "reshashb": "0ff750d9c93632d53d5f61d6dd469e56",
             "resource": "dotbunsin_bounce.png",
-            "backresource": "dotbunsin_back.png"
         },
         {
             "author": "れおぴい",
