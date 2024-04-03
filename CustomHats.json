@@ -47,17 +47,6 @@
             "resource": "harucchi_bounce.png"
         },
         {
-            "author": "ハルッチ",
-            "bounce": true,
-            "climbresource": "harucchi_climb.png",
-            "condition": "None",
-            "name": "ハルッチ",
-            "package": "ゆう村",
-            "reshasha": "dd94ad11b2dd355598ab695a59fa5de9",
-            "reshashc": "0a0f7d92c1f14760edf503ae0e0f5cc0",
-            "resource": "harucchi_bounce.png"
-        },
-        {
             "author": "不明",
             "adaptive": true,
             "bounce": true,
