@@ -91,6 +91,17 @@
             "resource": "edocrew_bounce.png"
         },
         {
+            "author": "ゆう",
+            "bounce": true,
+            "climbresource": "banana_climb.png",
+            "condition": "None",
+            "name": "インポスターに食べられちゃう!!",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "45dbcfcc937cad69777fd7ec5399a08e",
+            "reshashc": "45dbcfcc937cad69777fd7ec5399a08e",
+            "resource": "banana_bounce.png"
+        },
+        {
             "author": "Palmer",
             "bounce": true,
             "climbresource": "megaphone_climb.png",
