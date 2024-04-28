@@ -102,6 +102,17 @@
             "resource": "banana_Bounce.png"
         },
         {
+            "author": "ゆう",
+            "bounce": true,
+            "climbresource": "Didyouseethat_climb.png",
+            "condition": "None",
+            "name": "お前...見たな?",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "f923beb71d5b3ea3b03e5440fad3e818",
+            "reshashc": "b3d1e3508251b2d43e6657f086a3bbef",
+            "resource": "Didyouseethat_Bounce.png"
+        },
+        {
             "author": "Palmer",
             "bounce": true,
             "climbresource": "megaphone_climb.png",
