@@ -1,118 +1,6 @@
 {
     "hats": [
         {
-            "author": "りょい",
-            "bounce": true,
-            "climbresource": "sheriff_climb.png",
-            "condition": "None",
-            "name": "シェリフカード!!",
-            "package": "ゆう村",
-            "reshasha": "0a77da0a6af60740bb5e6949477e42b4",
-            "reshashc": "3021005a404a9ff19dec0fa2a5d7e0d7",
-            "reshashf": "d383069cfeceeaa8c759fcd451061211",
-            "flipresource": "sheriff_flip.png",
-            "resource": "sheriff_bounce.png"
-        },
-        {
-            "author": "ハルッチ",
-            "bounce": true,
-            "climbresource": "kou_climb.png",
-            "condition": "None",
-            "name": "ブリザード",
-            "package": "ゆう村",
-            "reshasha": "ac7dc25b0d54d69eb0a32d2e507fa58a",
-            "reshashc": "558e05486a2bb01058feead768820631",
-            "resource": "kou_bounce.png"
-        },
-        {
-            "author": "リン",
-            "bounce": true,
-            "climbresource": "rin_climb.png",
-            "condition": "None",
-            "name": "rin",
-            "package": "ゆう村",
-            "reshasha": "80a0c84242bb19044344beb4b9924bc2",
-            "reshashc": "e33b1cf4603cfe05df7e3e6a5e9b5087",
-            "resource": "rin_bounce.png"
-        },
-        {
-            "author": "ハルッチ",
-            "bounce": true,
-            "climbresource": "harucchi_climb.png",
-            "condition": "None",
-            "name": "ハルッチ",
-            "package": "ゆう村",
-            "reshasha": "dd94ad11b2dd355598ab695a59fa5de9",
-            "reshashc": "0a0f7d92c1f14760edf503ae0e0f5cc0",
-            "resource": "harucchi_bounce.png"
-        },
-        {
-            "author": "不明",
-            "adaptive": true,
-            "bounce": true,
-            "condition": "None",
-            "name": "死体屋",
-            "package": "ゆう村",
-            "reshasha": "01ac95adf9523744a378acdd32370d36",
-            "resource": "shitaiya_bounce_adaptive.png"
-        },
-        {
-            "author": "ゆう",
-            "backresource": "dotbunsin_back.png",
-            "adaptive": true,
-            "bounce": true,
-            "condition": "None",
-            "name": "ドット分身の術!!",
-            "package": "ゆう村",
-            "reshasha": "fda370b194f81cd20a833008635c1cb5",
-            "reshashb": "0ff750d9c93632d53d5f61d6dd469e56",
-            "resource": "dotbunsin_bounce.png"
-        },
-        {
-            "author": "ゆう",
-            "bounce": true,
-            "climbresource": "sans_climb.png",
-            "condition": "None",
-            "name": "隠していた能力を発動!!",
-            "package": "TheOtherRolesJPdeveloper!!",
-            "reshasha": "68d021643b26de7b85bd715f50b7247c",
-            "reshashc": "69fee90b273d827cb047eb5da15cdd68",
-            "resource": "sans_bounce.png"
-        },
-        {
-            "author": "れおぴい",
-            "bounce": true,
-            "climbresource": "edocrew_climb.png",
-            "condition": "None",
-            "name": "江戸クルー",
-            "package": "TheOtherRolesJPdeveloper!!",
-            "reshasha": "0436d80588922d5a6324e936f063f65d",
-            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
-            "resource": "edocrew_bounce.png"
-        },
-        {
-            "author": "ゆう",
-            "bounce": true,
-            "climbresource": "banana_climb.png",
-            "condition": "None",
-            "name": "インポスターに食べられちゃう!!",
-            "package": "TheOtherRolesJPdeveloper!!",
-            "reshasha": "45dbcfcc937cad69777fd7ec5399a08e",
-            "reshashc": "45dbcfcc937cad69777fd7ec5399a08e",
-            "resource": "banana_Bounce.png"
-        },
-        {
-            "author": "ゆう",
-            "bounce": true,
-            "climbresource": "Didyouseethat_climb.png",
-            "condition": "None",
-            "name": "お前...見たな?",
-            "package": "TheOtherRolesJPdeveloper!!",
-            "reshasha": "f923beb71d5b3ea3b03e5440fad3e818",
-            "reshashc": "b3d1e3508251b2d43e6657f086a3bbef",
-            "resource": "Didyouseethat_Bounce.png"
-        },
-        {
             "author": "Palmer",
             "bounce": true,
             "climbresource": "megaphone_climb.png",
@@ -4043,6 +3931,118 @@
             "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
             "resource": "Spartan.png"
-        }
+         },
+        {
+            "author": "りょい",
+            "bounce": true,
+            "climbresource": "sheriff_climb.png",
+            "condition": "None",
+            "name": "シェリフカード!!",
+            "package": "ゆう村",
+            "reshasha": "0a77da0a6af60740bb5e6949477e42b4",
+            "reshashc": "3021005a404a9ff19dec0fa2a5d7e0d7",
+            "reshashf": "d383069cfeceeaa8c759fcd451061211",
+            "flipresource": "sheriff_flip.png",
+            "resource": "sheriff_bounce.png"
+        },
+        {
+            "author": "ハルッチ",
+            "bounce": true,
+            "climbresource": "kou_climb.png",
+            "condition": "None",
+            "name": "ブリザード",
+            "package": "ゆう村",
+            "reshasha": "ac7dc25b0d54d69eb0a32d2e507fa58a",
+            "reshashc": "558e05486a2bb01058feead768820631",
+            "resource": "kou_bounce.png"
+        },
+        {
+            "author": "リン",
+            "bounce": true,
+            "climbresource": "rin_climb.png",
+            "condition": "None",
+            "name": "rin",
+            "package": "ゆう村",
+            "reshasha": "80a0c84242bb19044344beb4b9924bc2",
+            "reshashc": "e33b1cf4603cfe05df7e3e6a5e9b5087",
+            "resource": "rin_bounce.png"
+        },
+        {
+            "author": "ハルッチ",
+            "bounce": true,
+            "climbresource": "harucchi_climb.png",
+            "condition": "None",
+            "name": "ハルッチ",
+            "package": "ゆう村",
+            "reshasha": "dd94ad11b2dd355598ab695a59fa5de9",
+            "reshashc": "0a0f7d92c1f14760edf503ae0e0f5cc0",
+            "resource": "harucchi_bounce.png"
+        },
+        {
+            "author": "不明",
+            "adaptive": true,
+            "bounce": true,
+            "condition": "None",
+            "name": "死体屋",
+            "package": "ゆう村",
+            "reshasha": "01ac95adf9523744a378acdd32370d36",
+            "resource": "shitaiya_bounce_adaptive.png"
+        },
+        {
+            "author": "ゆう",
+            "backresource": "dotbunsin_back.png",
+            "adaptive": true,
+            "bounce": true,
+            "condition": "None",
+            "name": "ドット分身の術!!",
+            "package": "ゆう村",
+            "reshasha": "fda370b194f81cd20a833008635c1cb5",
+            "reshashb": "0ff750d9c93632d53d5f61d6dd469e56",
+            "resource": "dotbunsin_bounce.png"
+        },
+        {
+            "author": "ゆう",
+            "bounce": true,
+            "climbresource": "sans_climb.png",
+            "condition": "None",
+            "name": "隠していた能力を発動!!",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "68d021643b26de7b85bd715f50b7247c",
+            "reshashc": "69fee90b273d827cb047eb5da15cdd68",
+            "resource": "sans_bounce.png"
+        },
+        {
+            "author": "れおぴい",
+            "bounce": true,
+            "climbresource": "edocrew_climb.png",
+            "condition": "None",
+            "name": "江戸クルー",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "0436d80588922d5a6324e936f063f65d",
+            "reshashc": "90cc7de6286393bfd2043ab7485d81b3",
+            "resource": "edocrew_bounce.png"
+        },
+        {
+            "author": "ゆう",
+            "bounce": true,
+            "climbresource": "banana_climb.png",
+            "condition": "None",
+            "name": "インポスターに食べられちゃう!!",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "45dbcfcc937cad69777fd7ec5399a08e",
+            "reshashc": "45dbcfcc937cad69777fd7ec5399a08e",
+            "resource": "banana_Bounce.png"
+        },
+        {
+            "author": "ゆう",
+            "bounce": true,
+            "climbresource": "Didyouseethat_climb.png",
+            "condition": "None",
+            "name": "お前...見たな?",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "reshasha": "f923beb71d5b3ea3b03e5440fad3e818",
+            "reshashc": "b3d1e3508251b2d43e6657f086a3bbef",
+            "resource": "Didyouseethat_Bounce.png"
+        },
     ]
 }
