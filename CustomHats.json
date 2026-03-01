@@ -4044,5 +4044,20 @@
             "reshashc": "b3d1e3508251b2d43e6657f086a3bbef",
             "resource": "Didyouseethat_Bounce.png"
         },
+        {
+            "author": "ゆう",
+            "name": "TORJP!",
+            "package": "TheOtherRolesJPdeveloper!!",
+            "condition": "None",
+            "bounce": true,
+            "adaptive": true,
+            "resource": "TORJP_bounce.png",
+            "reshasha": "c0ec1386326a5ecd736c9862e268b1f6",
+            "climbresource": "TORJP_climb.png",
+            "reshashc": "0290a802f9b5a1bcf5b79cc10a9781e0",
+            "flipresource": "TORJP_flip.png",
+            "reshashf": "db45836b8e4ea1d0dd68c3febcd61fc0"
+        }
     ]
 }
+
